@@ -85,9 +85,7 @@
 ---
 
 ### 🔥 My Stats (includes private repos):
-
-![](https://raw.githubusercontent.com/Elvis-Osano/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Elvis-Osano/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Top Langs](https://elvis-stats.vercel.app/api/top-langs/?username=Elvis-Osano&size_weight=0.5&count_weight=0.5&langs_count=8&layout=compact)
 
 
 <!-- <a href="https://github.com/gagan-suie"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gagan-suie&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Gagan's github stats" /></a> -->
